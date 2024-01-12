@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kasa and I'm a WEB Dev, from Brasil!</h2>
+<h2 align="left">Hi 👋! My name is Kasa and I'm a Full-Stack Dev, from Brasil!</h2>
 
 
 <h4>👨‍💻|Actually I'm learning some techs amongst them:</h4>
